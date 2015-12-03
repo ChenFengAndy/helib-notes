@@ -1,8 +1,5 @@
-My Awesome Book
-=======
+HElib Notes
+===
+This notes record the way how I have used the [HElib] in my research. I hope I can share some previous know-how that I have learned. [HElib] is a sophistic low-layer _FHE_ framework. 
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
-When $$a \ne 0$$, there are two solutions to $$(ax^2 + bx + c = 0)$$ and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
+[HElib]: https://github.com/shaih/HElib
