@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Chinese Reminder Theorem
+* [Chinese Reminder Theorem](chinese_reminder_theorem.md)
 
